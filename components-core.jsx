@@ -130,10 +130,10 @@ function Hero({ calm }) {
       <div className="container">
         <div className="hero-grid">
           <div>
-            <div className="status-pill">
+            {/* <div className="status-pill">
               <span className="dot"></span>
               <span>Open to new collaborations</span>
-            </div>
+            </div> */}
             <h1 className="hero-name">
               Taha <span className="accent">Siddiqui.</span>
             </h1>
